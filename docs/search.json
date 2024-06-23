@@ -25,7 +25,7 @@
     "href": "quarto/index.html#outcomes-table",
     "title": "Clinical Outcomes of Atrial Fibrillation in Aortic Aneurysm Patients: Insights from the National Inpatient Sample",
     "section": "Outcomes Table:",
-    "text": "Outcomes Table:\n\n\n\n\n\n\n\n\nCharacteristic\nOverall, N = 200,2501\nAortic Aneurysm without Atrial Fibrillation, N = 161,2201\nAortic Aneurysm with Atrial Fibrillation, N = 39,0301\np-value2\n\n\n\n\nDied during hospitalization\n12,550 (6.3%)\n9,660 (6.0%)\n2,890 (7.4%)\n&lt;0.001\n\n\nLength of stay (days)\n5.8 (8.2)\n5.3 (7.9)\n7.9 (8.8)\n&lt;0.001\n\n\nInflation-adjusted total charge ($)\n200,987 (253,315)\n190,435 (253,243)\n244,613 (248,923)\n&lt;0.001\n\n\n\n1 n (%); Mean (SD)\n\n\n2 chi-squared test with Rao & Scott’s second-order correction; Wilcoxon rank-sum test for complex survey samples"
+    "text": "Outcomes Table:\n\n\n\n\n\n\n\n\nCharacteristic\nOverall, N = 200,2501\nAortic Aneurysm without Atrial Fibrillation, N = 161,2201\nAortic Aneurysm with Atrial Fibrillation, N = 39,0301\np-value2\n\n\n\n\nDied during hospitalization\n12,550 (6.3%)\n9,660 (6.0%)\n2,890 (7.4%)\n&lt;0.001\n\n\nLength of stay (days)\n3.0 (1.0, 7.0)\n3.0 (1.0, 6.0)\n6.0 (2.0, 10.0)\n&lt;0.001\n\n\nInflation-adjusted total charge ($)\n138,826 (81,133, 236,247)\n132,582 (78,755, 221,753)\n174,159 (96,684, 303,059)\n&lt;0.001\n\n\n\n1 n (%); Median (IQR)\n\n\n2 chi-squared test with Rao & Scott’s second-order correction; Wilcoxon rank-sum test for complex survey samples"
   },
   {
     "objectID": "quarto/index.html#multivariable-logistic-regression",
